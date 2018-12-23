@@ -40,6 +40,16 @@
 /******************************************************************************/
 
 /**
+  * @brief  This function handles TIM3 global interrupt request.
+  * @param  None
+  * @retval None
+  */
+void TIM3_IRQHandler(void)
+{ 
+  
+}
+
+/**
   * @brief  This function handles NMI exception.
   * @param  None
   * @retval None
